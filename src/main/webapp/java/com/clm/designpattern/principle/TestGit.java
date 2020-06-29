@@ -6,4 +6,6 @@ package com.clm.designpattern.principle;
  */
 public class TestGit {
 
+  //测试修改
+
 }
