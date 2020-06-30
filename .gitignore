@@ -9,7 +9,7 @@
 out
 gen
 target/*.properties
-
+logs
 ### Java template
 # Compiled class file
 *.class
